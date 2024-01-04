@@ -26,7 +26,7 @@ a{
     background-color: var(--bg);
     color: var(--textColor);
 }
-
+ 
 .wrapper{
     max-width: 1536px;
     margin-left: auto;
